@@ -117,7 +117,7 @@ Research into stroke classification from microwave signals using interpretable d
 
 ## 📚 Research & professional background
 
-- PhD in Information Technology, **The University of Queensland**
+- PhD in Data Science, **The University of Queensland**
 - Research spanning microwave medical sensing, deep learning, and MRI quality analysis
 - [Research profile and publications (ORCID)](https://orcid.org/0000-0001-7489-2118)
 
