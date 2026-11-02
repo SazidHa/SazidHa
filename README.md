@@ -8,7 +8,7 @@
 
 Brisbane, Australia · Biomedical AI · LLM Agents · RAG · Cloud Analytics
 
-[[LINKEDIN_URL](https://www.linkedin.com/in/sazid-hasan-ai/) · [Research / Publications](orcid.org/0000-0001-7489-2118) · [Email](sazidhasann.gmail.com)
+[LINKEDIN_URL](https://www.linkedin.com/in/sazid-hasan-ai/) · [Research / Publications](orcid.org/0000-0001-7489-2118) · [Email](sazidhasann.gmail.com)
 
 </div>
 
@@ -26,14 +26,15 @@ I'm an AI/ML engineer and data scientist with a PhD from The University of Queen
 
 ## Featured projects
 
+
 | Project | What I built / explored | Stack | Code / details |
 |:--|:--|:--|:--|
-| **Research Intelligence RAG** | Citation-grounded research assistant using document ingestion, dense/sparse retrieval and reciprocal-rank fusion; extending with reranking and evaluation. | Python, Qdrant, embeddings, BM25, Gemini | [View project](YOUR_RAG_REPO_URL](https://github.com/SazidHa/Research-Intelligence-Rag)) |
-| **Queensland Clinical Data Analytics** | Public emergency-department data engineered through Bronze/Silver/Gold layers, with hospital/triage analytics and event-driven monitoring. | Microsoft Fabric, PySpark, SQL, Eventstream, Power BI | [View project]([YOUR_CLINICAL_REPO_URL](https://github.com/SazidHa/Queensland-Clinical-Data-Analytics)) |
-| **Natural-Language SQL Agent** | Natural-language access to demographic data with access controls, query guardrails and an evaluation workflow (~4.8/5 on an internal benchmark). Include only approved public material. | LangChain, Gemini, BigQuery, Streamlit, LangSmith | [Case study]([YOUR_APPROVED_CASE_STUDY_URL](https://github.com/SazidHa/demography-insights)) |
-| **Explainable Biomedical AI** | Research on non-invasive sensing and medical image quality, with subject-aware evaluation and interpretable deep learning. | PyTorch, scikit-learn, signal processing | [Publications / project]([YOUR_MEDICAL_AI_URL](https://github.com/SazidHa/stroke-classification-with-microwave-signals-using-explainable-wavelet-convolutional-neural-network)) |
-| **Retail Analytics on Fabric** | End-to-end data ingestion, transformation, semantic modelling and business intelligence. | Fabric, SQL, Power BI | [View project](YOUR_RETAIL_REPO_URL) |
-| **Azure AI Agent Workflows** | Tool-enabled AI agents and multi-step orchestration experiments. | Azure AI Foundry, Python | [View project]([YOUR_AZURE_REPO_UR](https://github.com/SazidHa/autogen-multi-agent-onboarding)L) |
+| **Research Intelligence RAG** | Citation-grounded research assistant using document ingestion, dense/sparse retrieval and reciprocal-rank fusion; extending with reranking and evaluation. | Python, Qdrant, Embeddings, BM25, Gemini | [View project](https://github.com/SazidHa/Research-Intelligence-Rag) |
+| **Queensland Clinical Data Analytics** | Public emergency-department data engineered through Bronze/Silver/Gold layers, with hospital/triage analytics and event-driven monitoring. | Microsoft Fabric, PySpark, SQL, Power BI | [View project](https://github.com/SazidHa/Queensland-Clinical-Data-Analytics) |
+| **Natural-Language SQL Agent** | Natural-language access to demographic data with access controls, query guardrails and an evaluation workflow (~4.8/5 on an internal benchmark). | LangChain, Gemini, BigQuery, Streamlit, LangSmith | [View project](https://github.com/SazidHa/demography-insights) |
+| **Explainable Biomedical AI** | Research on non-invasive sensing and interpretable deep learning. | PyTorch, scikit-learn, Signal Processing | [View project](https://github.com/SazidHa/stroke-classification-with-microwave-signals-using-explainable-wavelet-convolutional-neural-network) |
+| **Retail Analytics on Fabric** | End-to-end data ingestion, transformation, semantic modelling and business intelligence. | Microsoft Fabric, SQL, Power BI | Add repository URL |
+| **Azure AI Agent Workflows** | Tool-enabled AI agents and multi-step orchestration experiments. | Azure AI Foundry, Python | [View project](https://github.com/SazidHa/autogen-multi-agent-onboarding) |
 
 ## Technical toolkit
 
