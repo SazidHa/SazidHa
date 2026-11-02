@@ -63,4 +63,4 @@ I'm an AI/ML engineer and data scientist with a PhD from The University of Queen
 
 I'm interested in opportunities involving **AI engineering, data science, and applied healthcare analytics**.
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:YOUR_EMAIL_ADDRESS)
+[LINKEDIN](https://www.linkedin.com/in/sazid-hasan-ai/) · [Email](sazidhasann.gmail.com)
