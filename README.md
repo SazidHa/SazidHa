@@ -8,7 +8,7 @@
 
 Brisbane, Australia · Biomedical AI · LLM Agents · RAG · Cloud Analytics
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Research / Publications](YOUR_PUBLICATIONS_URL) · [Email](mailto:YOUR_EMAIL_ADDRESS)
+[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sazid-hasan-ai/) · [Research / Publications](orcid.org/0000-0001-7489-2118) · [Email](sazidhasann.gmail.com)
 
 </div>
 
