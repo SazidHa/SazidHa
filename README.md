@@ -2,9 +2,9 @@
 
 # Hi, I'm Sazid Hasan 👋
 
-### AI/ML Engineer · Data Scientist · PhD in Deep Learning
+### AI/ML Engineer · Data Scientist · Data Engineering · PhD in Deep Learning
 
-**I build and evaluate AI solutions — from research models to practical LLM agents and data platforms.**
+**I build end-to-end AI and data solutions — from intelligent models and LLM agents to scalable data pipelines and cloud analytics.**
 
 📍 Brisbane, Australia &nbsp;|&nbsp; 🧠 Applied AI &nbsp;|&nbsp; ☁️ Cloud Analytics &nbsp;|&nbsp; 🩺 Biomedical AI
 
@@ -22,7 +22,7 @@ I hold a **PhD from The University of Queensland** and work across **AI engineer
 
 - **AI & LLM engineering:** RAG, hybrid retrieval, agentic workflows, evaluation, and guardrails
 - **Machine learning:** PyTorch, deep learning, explainability, uncertainty estimation, subject-independent validation
-- **Data engineering & analytics:** Microsoft Fabric, lakehouse pipelines, PySpark, SQL, and Power BI
+- **Data engineering & analytics:** Microsoft Fabric, lakehouse pipelines, PySpark, SQL, ETL/ELT, and Power BI
 - **Applied healthcare AI:** Microwave sensor analytics, MRI quality assessment, and clinical research
 
 ## 🛠️ Technical stack
